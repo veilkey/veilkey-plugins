@@ -1,0 +1,9 @@
+{
+  "apiVersion": "veilkey.io/v1",
+  "kind": "Plugin",
+  "name": "mattermost-sync",
+  "version": "1.0.0",
+  "description": "Mattermost config.json management + restart hook",
+  "wasmFile": "mattermost-sync.wasm",
+  "license": "MIT"
+}

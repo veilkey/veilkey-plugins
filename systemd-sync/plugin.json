@@ -1,0 +1,9 @@
+{
+  "apiVersion": "veilkey.io/v1",
+  "kind": "Plugin",
+  "name": "systemd-sync",
+  "version": "1.0.0",
+  "description": "Systemd service management — daemon-reload, unit override, restart hooks",
+  "wasmFile": "systemd-sync.wasm",
+  "license": "MIT"
+}

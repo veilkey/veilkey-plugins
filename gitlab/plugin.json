@@ -1,0 +1,9 @@
+{
+  "apiVersion": "veilkey.io/v1",
+  "kind": "Plugin",
+  "name": "gitlab",
+  "version": "1.0.0",
+  "description": "GitLab CE/EE config management — gitlab.rb deployment + reconfigure hook",
+  "wasmFile": "gitlab.wasm",
+  "license": "MIT"
+}
