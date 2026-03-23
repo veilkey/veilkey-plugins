@@ -1,0 +1,9 @@
+{
+  "apiVersion": "veilkey.io/v1",
+  "kind": "Plugin",
+  "name": "soulflow-sync",
+  "version": "1.0.0",
+  "description": "SoulFlow Orchestrator config sync — .env, agent credentials, provider settings",
+  "wasmFile": "soulflow-sync.wasm",
+  "license": "MIT"
+}

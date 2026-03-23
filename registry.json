@@ -24,6 +24,14 @@
       "description": "Mattermost config.json management + restart hook",
       "wasm": "mattermost-sync/mattermost-sync.wasm",
       "license": "MIT"
+    },
+    {
+      "name": "soulflow-sync",
+      "type": "sync",
+      "version": "1.0.0",
+      "description": "SoulFlow Orchestrator config sync — .env, agent credentials, provider settings",
+      "wasm": "soulflow-sync/soulflow-sync.wasm",
+      "license": "MIT"
     }
   ]
 }
