@@ -1,0 +1,9 @@
+{
+  "apiVersion": "veilkey.io/v1",
+  "kind": "Plugin",
+  "name": "docker-compose-sync",
+  "version": "1.0.0",
+  "description": "Docker Compose service management — .env + compose.yml deployment + recreate hook",
+  "wasmFile": "docker-compose-sync.wasm",
+  "license": "MIT"
+}

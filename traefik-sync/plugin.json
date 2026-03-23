@@ -1,0 +1,9 @@
+{
+  "apiVersion": "veilkey.io/v1",
+  "kind": "Plugin",
+  "name": "traefik-sync",
+  "version": "1.0.0",
+  "description": "Traefik reverse proxy route management — dynamic config YAML + reload hook",
+  "wasmFile": "traefik-sync.wasm",
+  "license": "MIT"
+}
