@@ -1,0 +1,9 @@
+{
+  "apiVersion": "veilkey.io/v1",
+  "kind": "Plugin",
+  "name": "cloudflare-dns",
+  "version": "1.0.0",
+  "description": "Cloudflare DNS record management — A/CNAME/TXT records via API",
+  "wasmFile": "cloudflare-dns.wasm",
+  "license": "MIT"
+}

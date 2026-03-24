@@ -6,6 +6,7 @@
     {"name": "mattermost-sync", "type": "sync", "version": "1.0.0", "description": "Mattermost config.json + restart", "wasm": "mattermost-sync/mattermost-sync.wasm"},
     {"name": "soulflow-sync", "type": "sync", "version": "1.0.0", "description": "SoulFlow .env + agent credentials + provider config", "wasm": "soulflow-sync/soulflow-sync.wasm"},
     {"name": "traefik-sync", "type": "sync", "version": "1.0.0", "description": "Traefik routes + static config + Cloudflare env", "wasm": "traefik-sync/traefik-sync.wasm"},
-    {"name": "docker-compose-sync", "type": "sync", "version": "1.0.0", "description": "Docker Compose .env + recreate/down hooks", "wasm": "docker-compose-sync/docker-compose-sync.wasm"}
+    {"name": "docker-compose-sync", "type": "sync", "version": "1.0.0", "description": "Docker Compose .env + recreate/down hooks", "wasm": "docker-compose-sync/docker-compose-sync.wasm"},
+    {"name": "cloudflare-dns", "type": "sync", "version": "1.0.0", "description": "Cloudflare DNS A/CNAME/TXT record management via API", "wasm": "cloudflare-dns/cloudflare-dns.wasm"}
   ]
 }
